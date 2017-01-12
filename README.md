@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Julia Berry's website.
+It exists in celebration of her 21st birthday.
 
-You can use the [editor on GitHub](https://github.com/segalgouldn/juliaeberry.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Julia is a talented writer and studies literature at Bard College in Annandale-on-Hudson, New York. She is among the kindest and most intelligent people I know, and these qualities will take her to new heights as she pursues her goals in the days and years to come. I've created this site to showcase her extensive Instagram portfolio, but by no means must it serve exclusively that singular purpose. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Julia, I love you and nothing brings me more joy than to see you living a fulfilling life in which you accomplish all you set out to do. I don't have to expect greatness from you, because you've already shown the power you have to obtain it wherever you go. Happy birthday, Julia. In the years to come, I'm sure I'll lose count of the ways you impress me.
 
-### Markdown
+Thank you for being one of my closest friends. This world has much to offer you. All you have to do is make it your own.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/segalgouldn/juliaeberry.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Noah Segal-Gould
