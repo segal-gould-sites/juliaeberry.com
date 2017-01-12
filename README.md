@@ -8,4 +8,5 @@ Julia, I love you and nothing brings me more joy than to see you living a fulfil
 Thank you for being one of my closest friends. This world has much to offer you. All you have to do is make it your own.
 
 Never stop being the joy you are,
+
 [Noah Segal-Gould](http://segal-gould.com/)
