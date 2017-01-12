@@ -10,3 +10,5 @@ Thank you for being one of my closest friends. This world has much to offer you.
 Never stop being the joy you are,
 
 [Noah Segal-Gould](http://segal-gould.com/)
+
+![](./memory.PNG "Sorry this image is so awful, but it's a favorite.")
